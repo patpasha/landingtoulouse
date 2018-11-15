@@ -1,24 +1,11 @@
-# README
+# LANDING PAGE : Synthèse du travail
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<p> Contributeurs :
+      * Patrick : patpasha (Github et Slack) - @patpasha (Slack)
+      * Paul Trin Dinh : askprod (Github) - @Paul Trin Dinh (Slack)
+      * Paul Riviere : Blud 7 (Github) - @Paul Rivière (Slack)
+      * Axel Pèlerin : apelerin (Github) - @Axel Pelerin (Slack) ==> Notre invité parisien
+      * Thierry OSPITAL : Swelly31 (Github) - @Thierry Ospital (Slack) </p>
+      
+<h1> DETAIL DES TRAVAUX RÉALISÉS </h1>
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
