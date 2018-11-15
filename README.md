@@ -8,7 +8,7 @@
           <li> Thierry OSPITAL : Swelly31 (Github) - @Thierry Ospital (Slack) </li>
  </ul>
       
-<h1> DETAIL DES TRAVAUX RÉALISÉS </h1>
+<h2> DETAIL DES TRAVAUX RÉALISÉS </h2>
 
 <p> BACK - SCRAPPING ET EMAILING </p>
 
